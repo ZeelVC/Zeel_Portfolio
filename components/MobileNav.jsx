@@ -54,7 +54,7 @@ const MobileNav = () => {
                         return (
                             <Link 
                                 href={link.path} 
-                                kay={index} 
+                                key={index} 
                                 className={`${
                                     link.path === pathname && "text-accent border-b-2 border-accent"
                                 } text-xl capitalize hover:text-accent trasition-all`}
