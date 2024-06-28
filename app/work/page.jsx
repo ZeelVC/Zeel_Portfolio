@@ -57,7 +57,7 @@ const projects = [
     description: "SQLViz is a powerful and intuitive tool that transforms complex SQL queries into clear, graphical representations. By visualizing the structure and flow of your queries, it helps developers, database administrators, and data analysts better understand, optimize, and communicate their SQL logic.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }, { name: "Python"}, { name: "Flask-API" }, { name: "GraphViz" }],
     image: "/assets/work/thumb4.png",
-    live: "https://zeelvc.github.io/SQL_Visualiser/",
+    live: "https://vercel-app-seven-omega.vercel.app/SQLViz",
     github: "https://github.com/ZeelVC/SQL_Visualiser",
   },
 ];
