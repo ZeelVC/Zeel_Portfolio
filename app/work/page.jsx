@@ -37,8 +37,8 @@ const projects = [
     description: "This is the prototype of user interface for Seat Detection System Built using IoT and Frontend Technology",
     stack: [{ name: "React" }, { name: "Html 5" }, { name: "CSS" }, { name: "IoT - Arduino IDE" }],
     image: "/assets/work/thumb2.png",
-    live: "https://github.com/ZeelVC/Seat_detect_system_IOT",
-    github: "https://github.com/ZeelVC/Seat_detect_system_IOT",
+    live: "https://seat-detection-system.vercel.app/",
+    github: "https://github.com/ZeelVC/seat-detection-system",
   },
   {
     num: "03",
