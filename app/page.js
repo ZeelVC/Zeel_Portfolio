@@ -24,7 +24,7 @@ const page = () => {
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
             <a 
-                href="/assets/resume/Zeel_Resume.pdf" 
+                href="/assets/resume/ZEEL_CHOTALIYA_RESUME.pdf" 
                 download="Zeel_Resume.pdf"
                 className="inline-block"
               >
